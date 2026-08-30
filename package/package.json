@@ -1,0 +1,25 @@
+{
+  "name": "subwayhavana",
+  "version": "2.0.0",
+  "description": "Subway Surfers Havana unity",
+  "main": "index.html",
+  "unpkg": "index.html",
+  "files": [
+    "Build/",
+    "TemplateData/",
+    "screenshots/",
+    "loaders/",
+    "fonts/",
+    "4399.png",
+    "torus-bold-webfont.woff2",
+    "*.js",
+    "index.html",
+    "favicon.ico"
+  ],
+  "keywords": [
+    "unity",
+    "webgl",
+    "game"
+  ],
+  "license": "ISC"
+}
